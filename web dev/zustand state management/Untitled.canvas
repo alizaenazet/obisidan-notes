@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"start create custome hooks store ","id":"8d445040b672631f","x":14,"y":-73,"width":250,"height":73,"color":"4"},
+		{"type":"file","file":"web dev/zustand state management/Create state.md","id":"8abc3ddec15b9539","x":480,"y":-236,"width":400,"height":400},
+		{"id":"10b8ecd56031737c","x":13,"y":142,"width":250,"height":60,"color":"4","type":"text","text":"Devtools"},
+		{"id":"64346b02dc19e672","x":-552,"y":-27,"width":400,"height":400,"type":"file","file":"web dev/zustand state management/Devtools.md"}
+	],
+	"edges":[
+		{"id":"d36f0164b2075672","fromNode":"8d445040b672631f","fromSide":"right","toNode":"8abc3ddec15b9539","toSide":"left"},
+		{"id":"6a4e6771d66ba61b","fromNode":"8d445040b672631f","fromSide":"bottom","toNode":"10b8ecd56031737c","toSide":"top"},
+		{"id":"b93d3a5a625f4416","fromNode":"10b8ecd56031737c","fromSide":"left","toNode":"64346b02dc19e672","toSide":"right"}
+	]
+}

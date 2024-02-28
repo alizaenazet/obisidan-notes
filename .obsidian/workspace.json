@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "788c88e97dc097cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c957bb5e144ace1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46a4c4ed39b7207",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01d3af150dcc0486",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e011f42d6aa21d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b21a2e0230b564a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b932b569e16270aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Abadic",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef5e63609b67a855",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 7.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "1eb7733e072709cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "516aa6092fdbf0fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a1664309e32c8eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee6eb8db8d44ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67c744f675fa1489",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4e9111f4d004005",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c7650a0dbc0c029",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f5a5124ee38eade",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c46a4c4ed39b7207",
+  "lastOpenFiles": [
+    "Abadicomm site.md",
+    "README.md",
+    "web dev/React/Responding to event.md",
+    "product ideas/WWDC Swift S.C/How to speak to a person with Down syndrome or a person who has Down syndrome..md",
+    "Untitled 7.canvas",
+    "product ideas/WWDC Swift S.C/Study case for Difficulty Understanding Sentence Pronunciation.md",
+    "product ideas/WWDC Swift S.C/Study case for Exercise 2 - Section 2.md",
+    "product ideas/WWDC Swift S.C/Study case for understanding message with gesture.md",
+    "product ideas/WWDC Swift S.C/Final exercise 1.md",
+    "product ideas/WWDC Swift S.C/Final exercise 2.md",
+    "Statistics/Introduction to Statistics.md",
+    "media/Pasted image 20240220090254.png",
+    "media/Screenshot 2024-02-20 at 08.57.44.png",
+    "media/Screenshot 2024-02-20 at 08.54.11.png",
+    "media/Screenshot 2024-02-20 at 08.52.25.png",
+    "media/Screenshot 2024-02-20 at 08.43.07.png",
+    "media/Screenshot 2024-02-20 at 08.42.55.png",
+    "media/Screenshot 2024-02-20 at 08.41.52.png",
+    "media/Screenshot 2024-02-20 at 08.41.44.png",
+    "media/Pasted image 20240220084000.png",
+    "Excalidraw/Introduction to Statistics 2024-02-20 08.33.15.excalidraw.md",
+    "Statistics",
+    "Excalidraw/How to speak to a person with Down syndrome or a person who has Down syndrome. 2024-01-22 00.55.58.excalidraw.md",
+    "product ideas/AI Document assisten with Chat gbt.md",
+    "product ideas/Drawing 2024-01-22 00.54.54.excalidraw.md",
+    "product ideas/WWDC Swift S.C",
+    "Untitled 9.canvas",
+    "web dev/React/Intro to useEffect.md",
+    "Github/Branch & Commit Convention.md",
+    "Github/Add commit to branch.md",
+    "web dev/next/Server component vs Client component.md",
+    "web dev/React/Props.md",
+    "web dev/React/Class component.md",
+    "web dev/React/Composition.md",
+    "Untitled 11.md",
+    "web dev/React/Rendering lists.md",
+    "web dev/React/Tree component.md",
+    "web dev/React/Functional Component.md",
+    "TES.md",
+    "media/Screenshot 2023-12-22 at 06.51.09.png",
+    "GCP/hackfest gamacitra",
+    "web dev/Tanstack query/Materi.canvas",
+    "web dev/React/Materi.canvas",
+    "algorithm",
+    "Untitled 8.canvas",
+    "product ideas",
+    "GCP",
+    "android",
+    "Design",
+    "laravel",
+    "discret math",
+    "Untitled 4.canvas",
+    "Untitled 6.canvas",
+    "web dev/zustand state management/Untitled.canvas",
+    "web dev/next/Untitled.canvas",
+    "Vanilla js web prog/Untitled.canvas"
+  ]
+}

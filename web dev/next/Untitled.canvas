@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"file","file":"web dev/next/link & navigation.md","id":"38f265edb35e828e","x":-109,"y":270,"width":400,"height":400},
+		{"type":"file","file":"web dev/next/route app.md","id":"c9d34e04bff8c896","x":-107,"y":-308,"width":400,"height":400},
+		{"type":"text","text":"Next fundamental","id":"730998764dd87397","x":-35,"y":-458,"width":250,"height":60},
+		{"type":"text","text":"","id":"6bf287d8df8d0d50","x":434,"y":-461,"width":250,"height":60},
+		{"type":"text","text":"Loading & Error handling page","id":"bc332b4dee5ed336","x":-34,"y":840,"width":250,"height":60},
+		{"id":"05a5da3409d2a0ff","x":632,"y":878,"width":400,"height":400,"type":"file","file":"web dev/next/Loading page.md"},
+		{"type":"file","file":"web dev/next/Error handling page.md","id":"ba0084b13dced8c3","x":620,"y":440,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"205b0242cc31728d","fromNode":"730998764dd87397","fromSide":"right","toNode":"6bf287d8df8d0d50","toSide":"left"},
+		{"id":"c756562bc9f5a9b3","fromNode":"730998764dd87397","fromSide":"bottom","toNode":"c9d34e04bff8c896","toSide":"top"},
+		{"id":"92ba7c97a9fa0159","fromNode":"c9d34e04bff8c896","fromSide":"bottom","toNode":"38f265edb35e828e","toSide":"top"},
+		{"id":"aa03b669af164342","fromNode":"38f265edb35e828e","fromSide":"bottom","toNode":"bc332b4dee5ed336","toSide":"top"},
+		{"id":"435b65d9b922988a","fromNode":"bc332b4dee5ed336","fromSide":"right","toNode":"ba0084b13dced8c3","toSide":"left"},
+		{"id":"19a5f8d13e54ae7e","fromNode":"bc332b4dee5ed336","fromSide":"right","toNode":"05a5da3409d2a0ff","toSide":"left"}
+	]
+}

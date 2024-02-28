@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"file","file":"AWS CORE/Modul layanan di cloud computing.md","id":"00797033d5a24923","x":-235,"y":-560,"width":400,"height":400},
+		{"type":"text","text":"Amazon EC2\n- #tipeInstanceAmazonEC2 \n- #FiturAmazonEC2 \n-  #caraKerjaAmazonEC2 \n- #HargaAWSEC2 ","id":"62d57603ac23ac6a","x":-175,"y":-760,"width":280,"height":100},
+		{"type":"text","text":"Pilih layanan server mu","id":"546c7aa38503fc72","x":-600,"y":-860,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"d3dfa11af590574b","fromNode":"62d57603ac23ac6a","fromSide":"bottom","toNode":"00797033d5a24923","toSide":"top"}
+	]
+}

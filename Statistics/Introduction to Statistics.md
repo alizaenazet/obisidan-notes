@@ -43,6 +43,7 @@ Jenis level variabel :
    Ini adalah tingkat pengukuran paling dasar. Data pada tingkat ini hanya dapat dikategorikan berdasarkan nama atau label tanpa adanya urutan tertentu.  
    **Contoh:**  
    - Nomor baju pemain sepak bola: 9, 10, 11, dst.
+	   walaupun angka untuk melabeli tidak selalu berarti dapat diurutkan, yang tidak bermakna akan angka tersebut
    - Merek mobil: Toyota, Honda, Ford, dst.
 
 2. **Ordinal**  
@@ -55,7 +56,6 @@ Jenis level variabel :
    Data interval memiliki semua karakteristik data ordinal, tapi juga menambahkan informasi tentang besarnya perbedaan antara nilai-nilai data. Akan tetapi, data interval tidak memiliki titik nol yang berarti.  
    **Contoh:**  
    - Suhu: 30°C, 20°C, 10°C, di mana perbedaan 10°C memiliki arti yang sama di mana pun pada skala.
-   - Ukuran pakaian: S, M, L, di mana M lebih besar dari S dan L lebih besar dari M.
 
 4. **Rasio**  
    Ini adalah tingkat pengukuran yang paling tinggi. Selain memiliki semua karakteristik data interval, data rasio memiliki titik nol yang berarti dan rasio antara dua angka juga berarti.  

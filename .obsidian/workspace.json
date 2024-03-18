@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c957bb5e144ace1f",
+        "id": "32dabc0ac7670b93",
         "type": "tabs",
         "children": [
           {
-            "id": "c46a4c4ed39b7207",
+            "id": "f745fe693a3b8639",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Survey of Probability Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a4ee96f545d275f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "swift/playground/using camera/Camera Class.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Abadic",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistics/Survey of Probability Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statistics/Survey of Probability Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statistics/Survey of Probability Concepts.md"
+              }
             }
           },
           {
@@ -165,66 +184,67 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle \"select text to copy\" mode": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false
     }
   },
-  "active": "c46a4c4ed39b7207",
+  "active": "f745fe693a3b8639",
   "lastOpenFiles": [
-    "Abadicomm site.md",
-    "README.md",
-    "web dev/React/Responding to event.md",
-    "product ideas/WWDC Swift S.C/How to speak to a person with Down syndrome or a person who has Down syndrome..md",
-    "Untitled 7.canvas",
-    "product ideas/WWDC Swift S.C/Study case for Difficulty Understanding Sentence Pronunciation.md",
-    "product ideas/WWDC Swift S.C/Study case for Exercise 2 - Section 2.md",
-    "product ideas/WWDC Swift S.C/Study case for understanding message with gesture.md",
-    "product ideas/WWDC Swift S.C/Final exercise 1.md",
-    "product ideas/WWDC Swift S.C/Final exercise 2.md",
+    "Statistics/Numerical Measures.md",
+    "media/Screenshot 2024-03-18 at 20.36.40.png",
+    "Excalidraw/Numerical Measures 2024-03-03 13.35.59.excalidraw.md",
     "Statistics/Introduction to Statistics.md",
+    "Statistics/Week 4 - Probability 2023.2.pdf",
+    "swift/playground/using camera/Untitled.canvas",
+    "swift/playground/using camera/Camera Class.md",
+    "swift/playground/using camera/AVFondation Camera model.md",
+    "swift/playground/using camera/PhotoAsset Class.md",
+    "Statistics/Survey of Probability Concepts.md",
+    "swift/Untitled.md",
+    "swift/playground/using camera",
+    "swift/playground/Using camera.md",
+    "swift/pla.md",
+    "swift/playground",
+    "swift",
+    "Html/Add image.md",
+    "Week 04 - Assigment IP Subnetting AFL 1.md",
+    "temporary",
+    "github MD Editor/ADD trpc client setup..md",
+    "Excalidraw/Survey of Probability Concepts 2024-03-12 08.42.10.excalidraw.md",
+    "media/Pasted Image 20240312084919_731.png",
+    "AWS CORE/Messaging and queueing (amazon SQS).md",
+    "AWS CORE/Layanan komputasi tambahan.md",
+    "AWS CORE/Network access control list (Network ACL).md",
+    "AWS CORE/AWS Budget.md",
+    "web dev/React/intro to useState.md",
+    "web dev/React/Materi.canvas",
+    "web dev/React/Conditional rendering.md",
+    "web dev/React/Functional Component.md",
+    "web dev/FrameWORK.md",
+    "web dev/React/Vite Start.md",
+    "2023-03-07.md",
+    "Excalidraw/Numerical Measures 2024-03-11 19.53.54.excalidraw.md",
+    "product ideas/The-Mom-Test-en id copy.pdf",
+    "media/The-Mom-Test-en id.pdf",
+    "media/The-Mom-Test-en id 1.pdf",
+    "tugas",
+    "Blogs",
+    "media/Pasted image 20240303141339.png",
+    "media/Pasted image 20240303141128.png",
+    "media/Pasted image 20240303141122.png",
+    "media/Pasted image 20240303140352.png",
+    "media/Screenshot 2024-03-03 at 13.22.19.png",
+    "Untitled 7.canvas",
     "media/Pasted image 20240220090254.png",
     "media/Screenshot 2024-02-20 at 08.57.44.png",
     "media/Screenshot 2024-02-20 at 08.54.11.png",
-    "media/Screenshot 2024-02-20 at 08.52.25.png",
-    "media/Screenshot 2024-02-20 at 08.43.07.png",
-    "media/Screenshot 2024-02-20 at 08.42.55.png",
-    "media/Screenshot 2024-02-20 at 08.41.52.png",
-    "media/Screenshot 2024-02-20 at 08.41.44.png",
-    "media/Pasted image 20240220084000.png",
-    "Excalidraw/Introduction to Statistics 2024-02-20 08.33.15.excalidraw.md",
-    "Statistics",
-    "Excalidraw/How to speak to a person with Down syndrome or a person who has Down syndrome. 2024-01-22 00.55.58.excalidraw.md",
-    "product ideas/AI Document assisten with Chat gbt.md",
-    "product ideas/Drawing 2024-01-22 00.54.54.excalidraw.md",
-    "product ideas/WWDC Swift S.C",
     "Untitled 9.canvas",
-    "web dev/React/Intro to useEffect.md",
-    "Github/Branch & Commit Convention.md",
-    "Github/Add commit to branch.md",
-    "web dev/next/Server component vs Client component.md",
-    "web dev/React/Props.md",
-    "web dev/React/Class component.md",
-    "web dev/React/Composition.md",
-    "Untitled 11.md",
-    "web dev/React/Rendering lists.md",
-    "web dev/React/Tree component.md",
-    "web dev/React/Functional Component.md",
-    "TES.md",
-    "media/Screenshot 2023-12-22 at 06.51.09.png",
-    "GCP/hackfest gamacitra",
     "web dev/Tanstack query/Materi.canvas",
-    "web dev/React/Materi.canvas",
-    "algorithm",
     "Untitled 8.canvas",
-    "product ideas",
-    "GCP",
-    "android",
-    "Design",
-    "laravel",
-    "discret math",
     "Untitled 4.canvas",
     "Untitled 6.canvas",
     "web dev/zustand state management/Untitled.canvas",
-    "web dev/next/Untitled.canvas",
-    "Vanilla js web prog/Untitled.canvas"
+    "web dev/next/Untitled.canvas"
   ]
 }

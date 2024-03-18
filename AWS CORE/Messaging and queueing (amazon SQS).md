@@ -42,3 +42,5 @@ Ketika kasir menambahkan antrian yang harus dikerjakan oleh barista dan barista 
 NB:konsep #amazonSQS  menghindari kecacatan sistem apabila kasir langsung menyampaikan pesanan secara langsung kepada barista, hal tersebut terjadi sebab ada kemungkinan si barista sedang istirahat atau sibuk bahkan hingga lupa.
 
 konsep #amazonSNS memudahkan dalam mengirim pemberitahuan pada pelanggan, apabila dalam satu kali pesanan siap terdapat 3 pesanan dari 3 pelanggan yang berbeda, maka pada saat itu juga 3 pelanggan tersebut mendapatkan pemberitahuan bahwasanya pesanan mereka telah siap pada sat itu juga
+
+[[]]

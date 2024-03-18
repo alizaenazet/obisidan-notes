@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4279bad49823a6a0","type":"file","file":"swift/playground/using camera/AVFondation Camera model.md","x":-540,"y":-280,"width":520,"height":520},
+		{"id":"7fe4b9bc34969455","type":"text","text":"Data Model Layer untuk setup AVFoundation\n","x":-420,"y":-440,"width":320,"height":80,"color":"5"},
+		{"id":"47daa154b62c9fc7","type":"text","text":"Menggunakan Object dari `Camera()` ","x":80,"y":-280,"width":250,"height":86,"color":"3"},
+		{"id":"ad5c39a9657004cb","type":"file","file":"swift/playground/using camera/Camera Class.md","x":460,"y":-637,"width":440,"height":400},
+		{"id":"7d19606cf31fb76e","type":"text","text":"Menggunakan Object dari `PhotoCollection()`\n","x":67,"y":60,"width":277,"height":83,"color":"3"},
+		{"id":"cdc2a3fa820a7d8f","x":460,"y":-194,"width":400,"height":400,"type":"file","file":"swift/playground/using camera/PhotoAsset Class.md"}
+	],
+	"edges":[
+		{"id":"6595427748dd760b","fromNode":"7fe4b9bc34969455","fromSide":"bottom","toNode":"4279bad49823a6a0","toSide":"top"},
+		{"id":"b7f92a3fde7ceb0c","fromNode":"4279bad49823a6a0","fromSide":"right","toNode":"47daa154b62c9fc7","toSide":"left"},
+		{"id":"34af7d17f1b0a2cf","fromNode":"4279bad49823a6a0","fromSide":"right","toNode":"7d19606cf31fb76e","toSide":"left"},
+		{"id":"772281ec798c6e95","fromNode":"47daa154b62c9fc7","fromSide":"right","toNode":"ad5c39a9657004cb","toSide":"left"},
+		{"id":"636994cf783ce6a7","fromNode":"7d19606cf31fb76e","fromSide":"right","toNode":"cdc2a3fa820a7d8f","toSide":"left"}
+	]
+}

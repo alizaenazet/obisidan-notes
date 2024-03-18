@@ -1,39 +1,90 @@
 metode keilmuan statistik dapat membantu memprediksi sebuah data untuk waktu kedepan.
 
 macam statistik dibagi menjadi 2 bagian pada umumnya :
-1. Deskriptif - mendeskripsikan
+1. Deskriptif [[Introduction to Statistics#Descriptive]] - mendeskripsikan
 	menggambarkan/menjelaskan secara deskriptif pada data
 	contoh: dikelas saya rata-rata berumur 18 tahun
-1. Inferential - menyimpulkan
+1. Inferential [[Introduction to Statistics#Inferental Statistik]]- menyimpulkan
 	menarik sebuah hasil kesimpulan dari data-data yang telah diolah, contoh :
 	- seorang mengambil sampel pada seluruh kelas dan mendapatkan hasil bahwa hampir seluruh kelas tidak ingin berpindah tempat untuk kelas yang digunakan, maka <mark style="background: #BBFABBA6;">kesimpulanya kelas tidak seharusnya dipindahkan</mark>
 	- harus menggunakan sample size yang cukup
 
-## Deskriptif 
+## Descriptive
+Deskriptif adalah metode untuk mengorganisir, merangkum dan menyampaikan sebuah data dalam bentuk yang informatif
+
+**Descriptive statistics** adalah metode-metode statistik yang digunakan untuk mendeskripsikan dan meringkas data. Ini termasuk penghitungan seperti rata-rata, median, modus, varians, standar deviasi, rentang, dan kuartil. Descriptive statistics membantu kita untuk mengerti data dengan cara yang lebih sederhana, menyoroti pola, dan memberikan poin-poin untuk analisis lanjutan. Ada dua konsep penting dalam descriptive statistics: **Populasi** dan **Sampel**.
+
+- **Populasi**: Ini merujuk pada seluruh kelompok yang sedang diteliti atau menjadi topik penelitian. Populasi bisa terdiri dari orang-orang, objek, transaksi, atau apapun yang memiliki karakteristik tertentu. Misalnya, jika kita ingin mempelajari tinggi badan anak sekolah di Indonesia, maka populasi kita adalah semua anak sekolah di Indonesia. Dalam konteks populasi:
+  - **Parameter**: Suatu nilai yang dihitung dari populasi, seperti rata-rata tinggi badan semua anak sekolah di Indonesia.
+  - **Laporan Populasi**: Hasil yang kita dapat dari populasi dianggap sebagai representasi sejati dari kelompok tersebut.
+
+- **Sampel**: Ini adalah bagian atau subset dari populasi. Kita menggunakan sampel ketika tidak praktis atau mungkin untuk mengamati seluruh populasi. Contohnya, jika kita tidak bisa mengukur tinggi semua anak sekolah di Indonesia, kita mungkin mengambil sampel, seperti anak-anak sekolah dari beberapa kota terpilih. Dalam konteks sampel:
+  - **Statistik**: Suatu nilai yang dihitung dari sampel, seperti rata-rata tinggi badan dari sampel anak sekolah yang kita ukur.
+  - **Laporan Sampel**: Memiliki margin of error dan interval kepercayaan, yang memberi tahu kita seberapa yakin kita bahwa hasil dari sampel bisa menggambarkan populasi.
 
 ![[Screenshot 2024-02-20 at 08.43.07.png]]
-1. menggunakan sample yang dapat dijangkau dengan sesuai budget
-2. kemungkinan kerusakan yang berakibat pada poin pertama
-3. data sampel yang tidak dapat dilakukan dengan sembarangan yang berakibat pada kesulitan dalam pengambilan data, seperti data yang sensitif dsb. Hal ini di akibatkan pihak yang berkaitan memiliki kesulitan dalam memberikan infromasi terkait data sampel,  contoh: korban pembulian, pengalaman traumatis dsb
+**Kenapa Sampel itu Penting?**
+- **Biaya**: Mengumpulkan data dari seluruh populasi bisa sangat mahal. Jika biayanya terlalu tinggi, lebih baik menggunakan sampel.
+- **Kemusnahan Objek**: Dalam beberapa kasus, seperti pengujian kekuatan bahan, pengambilan data bisa merusak objek. Jadi kita hanya menguji beberapa sampel saja.
+- **Ketidakmungkinan**: Kadang, tidak mungkin mengumpulkan data dari seluruh populasi karena jumlahnya yang sangat besar atau tersebar luas.
+
+**Contoh Penggunaan Sampel**: Stasiun televisi sering menggunakan sampel untuk mengetahui popularitas acara mereka. Mereka tidak bisa bertanya ke semua penonton, jadi mereka menggunakan sampel dari penonton untuk mendapatkan estimasi.
+
+Dengan menggunakan sampel yang representatif, kita bisa mendapatkan gambaran yang cukup akurat tentang populasi tanpa harus mengumpulkan data dari setiap individu atau objek di dalamnya.
 
 ## Inferental Statistik
 Mengeneralisasi jumlah data sampel menjadi data asli.
 contoh:  5000 mahasiswa kampus diwakili oleh 100 sampel mahasiswa hasil dari sampel akan digeneralisasi menjadi kesimpulan untuk seluruh 5000 mahasiswa.
 
+**Inferential Statistics:**
+- **Definisi**: Metode statistik yang digunakan untuk memperkirakan sifat-sifat populasi berdasarkan sampel.
+- **Penerapan**: Memungkinkan Anda membuat keputusan berdasarkan kumpulan data yang terbatas.
+- **Contoh**: Dari 5000 mahasiswa, 400 diwawancarai. Jika 300 mengatakan makanan sehat itu penting, kita menyimpulkan bahwa sekitar 75% dari semua mahasiswa berpikir makanan sehat penting.
 
-## Variabel kuantitatif
+**Tipe-Tipe Variabel:**
 
-![[Screenshot 2024-02-20 at 08.52.25.png]]
+1. **Qualitative Variable (Variabel Kualitatif):**
+   > [!PDF|yellow] [[Week 1 - Intro to Statistics 2023.2.pdf#page=11&selection=5,0,8,48&color=yellow|Week 1 - Intro to Statistics 2023.2, p.11]]
+> > QUALITATIVE VARIABLE An object or individual is observed and recorded as a non-numeric characteristic or attribute. Examples: gender, city of birth, eye color, etc.
+> 
+> 
+
 <mark style="background: #BBFABBA6;">varibel numerik alias dapat dihitung.</mark>
-contoh: 
-- berapakah jumlah siswa berkacamata dalam kelas ?
 
-ciri-ciri :
-- dapat memiliki jumlah yang tidak tetap dan tidak terhingga
-- 
+   - **Ciri-ciri**:
+     - Non-numerik.
+     - Mewakili karakteristik atau atribut.
+   - **Contoh**:
+     - Jenis kelamin.
+     - Kota kelahiran.
+     - Warna mata.
 
-## Variabel kualitatif
-<mark style="background: #BBFABBA6;">variabel yang dapat diukur.</mark>
+2. **Quantitative Variable (Variabel Kuantitatif):**
+   - **Ciri-ciri**:
+     - Numerik.
+     - Hasil pengukuran atau perhitungan.
+   - **Sub-tipe**:
+
+> [!PDF|yellow] [[Week 1 - Intro to Statistics 2023.2.pdf#page=12&selection=5,0,13,10&color=yellow|Week 1 - Intro to Statistics 2023.2, p.12]]
+> > Types of Variables • Quantitative variables can be discrete or continuous
+> 
+> Variabel Kuantitatif memiliki dua tipe berdasarkan tipikal hasil
+
+![[Week 1 - Intro to Statistics 2023.2.pdf#page=13&rect=123,58,622,391&color=yellow|Week 1 - Intro to Statistics 2023.2, p.13]]
+
+ **Discrete (Diskrit)**:
+       - Hasil hitungan.
+       - Ada "celah" antara nilai-nilai.
+       - **Contoh**: Jumlah kamar tidur dalam rumah, jumlah siswa dalam kursus statistik.
+         
+**Continuous (Kontinu)**:
+       - Hasil pengukuran.
+       - Bisa menerima nilai apa saja dalam rentang tertentu.
+       - **Contoh**: Tekanan udara dalam ban, durasi penerbangan dari Surabaya ke Jakarta.
+
+Inferential statistics membantu kita mengambil sampel data yang terbatas dan menggunakan informasi tersebut untuk membuat generalisasi atau kesimpulan mengenai populasi yang lebih besar. Variabel kualitatif memberikan konteks dan deskripsi, sementara variabel kuantitatif memberikan data numerik yang dapat dihitung dan dianalisis lebih lanjut.
+
+
 
 Jenis level variabel : 
 ![[Screenshot 2024-02-20 at 08.54.11.png]]

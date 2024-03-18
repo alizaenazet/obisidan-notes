@@ -6,26 +6,49 @@
       {
         "id": "32dabc0ac7670b93",
         "type": "tabs",
+        "dimension": 61.52291105121294,
         "children": [
           {
             "id": "f745fe693a3b8639",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Statistics/Survey of Probability Concepts.md",
-                "mode": "source",
-                "source": false
+                "file": "Statistics/Week 2 - Numerical Measures 2023.2.pdf",
+                "page": 15,
+                "left": -16,
+                "top": 292,
+                "zoom": 0.909375
               }
             }
           },
           {
-            "id": "7a4ee96f545d275f",
+            "id": "9b049c15464bdd7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "swift/playground/using camera/Camera Class.md",
+                "file": "Statistics/Survey of Probability Concepts & Chart types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "68e8946292cb1f35",
+        "type": "tabs",
+        "dimension": 38.47708894878706,
+        "children": [
+          {
+            "id": "c5712c3818dc4bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Numerical Measures.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Survey of Probability Concepts.md",
+                "file": "Statistics/Survey of Probability Concepts & Chart types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Survey of Probability Concepts.md",
+                "file": "Statistics/Survey of Probability Concepts & Chart types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Survey of Probability Concepts.md"
+                "file": "Statistics/Survey of Probability Concepts & Chart types.md"
               }
             }
           },
@@ -189,18 +212,22 @@
       "pdf-plus:PDF++: Toggle auto-focus": false
     }
   },
-  "active": "f745fe693a3b8639",
+  "active": "9b049c15464bdd7b",
   "lastOpenFiles": [
+    "Statistics/Introduction to Statistics.md",
     "Statistics/Numerical Measures.md",
+    "Statistics/Survey of Probability Concepts & Chart types.md",
+    "Statistics/Week 2 - Numerical Measures 2023.2.pdf",
+    "Statistics/Week 1 - Intro to Statistics 2023.2.pdf",
+    "Statistics/PYTHON MATH.md",
+    "Statistics/Week 3 - Displaying and Exploring Data 2023.2.pdf",
+    "swift/playground/using camera/Camera Class.md",
+    "Statistics/Week 4 - Probability 2023.2.pdf",
     "media/Screenshot 2024-03-18 at 20.36.40.png",
     "Excalidraw/Numerical Measures 2024-03-03 13.35.59.excalidraw.md",
-    "Statistics/Introduction to Statistics.md",
-    "Statistics/Week 4 - Probability 2023.2.pdf",
     "swift/playground/using camera/Untitled.canvas",
-    "swift/playground/using camera/Camera Class.md",
     "swift/playground/using camera/AVFondation Camera model.md",
     "swift/playground/using camera/PhotoAsset Class.md",
-    "Statistics/Survey of Probability Concepts.md",
     "swift/Untitled.md",
     "swift/playground/using camera",
     "swift/playground/Using camera.md",
@@ -224,12 +251,8 @@
     "web dev/FrameWORK.md",
     "web dev/React/Vite Start.md",
     "2023-03-07.md",
-    "Excalidraw/Numerical Measures 2024-03-11 19.53.54.excalidraw.md",
     "product ideas/The-Mom-Test-en id copy.pdf",
     "media/The-Mom-Test-en id.pdf",
-    "media/The-Mom-Test-en id 1.pdf",
-    "tugas",
-    "Blogs",
     "media/Pasted image 20240303141339.png",
     "media/Pasted image 20240303141128.png",
     "media/Pasted image 20240303141122.png",

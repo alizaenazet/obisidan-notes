@@ -65,6 +65,8 @@ pertahikan 2 gambar dari penjelasan berikut :
 
 Kita kemudian mengalikan kedua nilai pertumbuhan ini dan mengambil akar kuadrat (karena ada dua nilai), yang memberikan `Mean Geometris`.
 
+
+
 #### Mean deviation
 Mean deviation atau simpangan rata-rata adalah ukuran seberapa tersebar data dari rata-ratanya. Untuk menghitung mean deviation, Anda mengikuti langkah-langkah ini:
 
@@ -106,4 +108,61 @@ Sekarang, untuk menghitung `Mean Geometris`, kita akan mengalikan semua faktor p
 
 Jadi, jika kamu mengalikan 1.3 (30% kenaikan) dengan 1.2 (20% kenaikan), dengan 0.6 (40% penurunan), dan dengan 3.0 (200% kenaikan), lalu mengambil akar keempat dari hasilnya, kamu akan mendapatkan `Mean Geometris` dari tingkat pertumbuhan investasi.
 
+## Population Variance (Varians Populasi)
+- **Apa Itu**: Ukuran seberapa jauh nilai dalam populasi keseluruhan tersebar dari mean (rata-rata) populasi.
+- **Rumus**: \(\sigma^2 = \frac{\sum (X_i - \mu)^2}{N}\)
+  - \(\sigma^2\): Varian populasi
+  - \(X_i\): Setiap nilai dalam populasi
+  - \(\mu\): Mean populasi
+  - \(N\): Jumlah nilai dalam populasi
 
+**Contoh Situasi**: Ada sebuah kebun buah dan kita ingin tahu seberapa bervariasi ukuran apel yang diproduksi. Kita mengumpulkan data ukuran semua apel selama satu hari, yang tercatat sebagai berikut (dalam cm): 7, 8, 9, 7, 10.
+
+**Langkah-langkah**:
+1. Hitung rata-rata ukuran apel: (7 + 8 + 9 + 7 + 10) / 5 = 41 / 5 = 8.2 cm.
+2. Kurangi rata-rata dari setiap ukuran apel, kemudian kuadratkan hasilnya:
+   - (7 - 8.2)² = (-1.2)² = 1.44
+   - (8 - 8.2)² = (-0.2)² = 0.04
+   - (9 - 8.2)² = (0.8)² = 0.64
+   - (7 - 8.2)² = (-1.2)² = 1.44
+   - (10 - 8.2)² = (1.8)² = 3.24
+3. Jumlahkan semua hasil kuadrat: 1.44 + 0.04 + 0.64 + 1.44 + 3.24 = 6.8
+4. Bagi total dengan jumlah apel: 6.8 / 5 = 1.36 cm².
+**Hasil**: Varians ukuran apel di kebun buah adalah 1.36 cm².
+## Sample Variance (Varians Sampel)
+- **Apa Itu**: Ukuran seberapa jauh nilai dalam sampel tersebar dari mean sampel. Biasanya digunakan karena data populasi lengkap tidak tersedia.
+- **Rumus**: \(s^2 = \frac{\sum (x_i - \bar{x})^2}{n-1}\)
+  - \(s^2\): Varian sampel
+  - \(x_i\): Setiap nilai dalam sampel
+  - \(\bar{x}\): Mean sampel
+  - \(n\): Jumlah nilai dalam sampel
+
+**Contoh Situasi**: Anda ingin mengetahui seberapa bervariasi pendapatan bulanan dalam grup teman Anda. Anda tidak bisa mengetahui pendapatan semua orang, jadi Anda meminta 6 teman untuk data pendapatannya: $3000, $3200, $2900
+
+**Contoh Situasi**: Anda ingin mengetahui seberapa bervariasi pendapatan bulanan dalam grup teman Anda. Anda tidak bisa mengetahui pendapatan semua orang, jadi Anda meminta 6 teman untuk data pendapatannya: $3000, $3200, $2900, $3100, $3300, $3000.
+
+**Langkah-langkah**:
+1. Hitung rata-rata (mean) pendapatan: \((3000 + 3200 + 2900 + 3100 + 3300 + 3000) / 6 = 18500 / 6 = 3083.33\) dolar.
+2. Kurangi rata-rata dari setiap pendapatan dan kuadratkan hasilnya:
+   - \((3000 - 3083.33)^2 = (-83.33)^2 = 6938.89\)
+   - \((3200 - 3083.33)^2 = (116.67)^2 = 13611.11\)
+   - \(dan seterusnya untuk setiap nilai...\)
+3. Jumlahkan semua hasil kuadrat: misal kita mendapatkan 30000 setelah menghitung semuanya.
+4. Karena ini sampel, bagi total dengan jumlah teman minus 1: \(30000 / (6 - 1) = 30000 / 5 = 6000\) dolar².
+
+**Hasil**: Varians sampel pendapatan bulanan teman-teman Anda adalah 6000 dolar².
+### Standard Deviation (Standar Deviasi)
+- **Apa Itu**: Akar kuadrat dari varian. Ini memberikan ukuran seberapa jauh nilai-nilai dari set data tersebar dalam satuan yang sama dengan data itu sendiri.
+- **Rumus**:
+  - Populasi: \(\sigma = \sqrt{\sigma^2}\)
+  - Sampel: \(s = \sqrt{s^2}\)
+
+**Contoh Situasi**: Kembali ke contoh kebun buah, Anda ingin mengukur seberapa jauh rata-rata ukuran apel bisa bervariasi.
+
+**Langkah-langkah**:
+1. Gunakan varians populasi yang sudah dihitung dari contoh sebelumnya, yaitu 1.36 cm².
+2. Akar kuadrat dari varians untuk mendapatkan standar deviasi: \(\sqrt{1.36}\) = sekitar 1.17 cm.
+
+**Hasil**: Standar deviasi ukuran apel di kebun adalah sekitar 1.17 cm.
+
+Menggunakan contoh-contoh ini, Anda bisa melihat bahwa varians memberi tahu kita seberapa jauh nilai-nilai bervariasi dalam kuadrat dari satuan aslinya (misalnya, dolar² atau cm²), sedangkan standar deviasi mengembalikan satuan ke bentuk aslinya (misalnya, dolar atau cm), membuatnya lebih mudah untuk dipahami dan dibandingkan dengan data asli kita.
